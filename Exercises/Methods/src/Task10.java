@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Task 10
 public class Task10 {
 	static void print(int[]a,int[]b){
 		Scanner input = new Scanner(System.in);
