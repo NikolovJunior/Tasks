@@ -1,4 +1,4 @@
-public class Task1 {
+public class Task1 {//Task 1
 	static void printAverage(int[] a,int n){
 		if(n >= a.length-1){
 			return;
