@@ -21,7 +21,7 @@ public class Task1 {
 		}
 	}
 	
-	
+	//main function here
 	public static void main(String[] args) {
 		int [] a = {2,4,8};
 		printAverage(a,0);
