@@ -33,6 +33,7 @@ public class Task10 {
 		
 		
 	}
+	//main function here
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("enter first length");
