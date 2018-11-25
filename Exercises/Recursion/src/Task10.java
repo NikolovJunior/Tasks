@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-
+//Task 10
 public class Task10 {
 	static int production(int n, int m , int index){
 		if(n <= index){
