@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//Task 2
 public class Task2 {
 	static void compare(int n , int m){
 		if(n == m){
