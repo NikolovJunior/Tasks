@@ -1,4 +1,6 @@
 public class Task4 {
+	//Task 4
+	
 	static boolean checkForDuplicateIterative(int[] array){
 		for(int index = 0 ; index < array.length ; index++){
 			for(int index2 = index+1 ; index2 < array.length ; index2++){
