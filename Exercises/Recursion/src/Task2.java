@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Task 2
 public class Task2 {
 	static int minElement(int[] a, int index) {
 		if (index >= a.length) {
